@@ -42,15 +42,6 @@ markdown: kramdown
 plugins:
   - jekyll-remote-theme
 
-# Social networks usernames (many more available: google-plus, flickr, dribbble, pinterest, instagram, tumblr, linkedin, etc.)
-#social:
-#  - title: github
-#    url: http://github.com/pacoustic
-
-# Postal address (add as many lines as necessary)
-#address:
-#  - line: 300 Loomis Ave
-#  - line: Des Moines, IA 50315
 
 exclude:
 - LICENSE
