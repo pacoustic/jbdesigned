@@ -15,7 +15,7 @@
 remote_theme: raviriley/agency-jekyll-theme
 
 url    : "https://jbdesigned.com" # the base hostname & protocol for your site, e.g. http://example.com
-baseurl: "/agency-jekyll-theme-starter" # the subpath of your site, e.g. /blog
+baseurl: "" # the subpath of your site, e.g. /blog
 
 title: JB Designed
 email: jason@jbdesigned.com
@@ -51,3 +51,7 @@ plugins:
 #address:
 #  - line: 300 Loomis Ave
 #  - line: Des Moines, IA 50315
+
+exclude:
+- LICENSE
+- README.md 
